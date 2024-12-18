@@ -29,7 +29,7 @@ characters_schema = CharacterSchema(many=True)
 # Database connection parameters
 db_name = "marvel"
 user = "root"
-password = "Unstitch18"
+password = "password"
 host = "localhost"
 
 def get_db_connection():
